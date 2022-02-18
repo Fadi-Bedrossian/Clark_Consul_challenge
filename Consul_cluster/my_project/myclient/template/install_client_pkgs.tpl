@@ -21,7 +21,7 @@ sudo touch /etc/consul.d/client/config.json
 cat << EOF > /etc/consul.d/client/config.json
 {
     "server": false,
-    "datacenter": "us-east-1",
+    "datacenter": "Us-Center",
     "data_dir": "/var/consul",
     "encrypt": "gsdfHJ3KZvpC/Zsdf9JZSTQQ==",
     "log_level": "INFO",
