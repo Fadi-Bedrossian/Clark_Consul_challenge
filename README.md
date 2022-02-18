@@ -11,7 +11,7 @@ Consul HA cluster contains the following resources:
 
 Please run the following commands to deploy the consul HA cluster:
 
-1. cd Clark_Consul_cluster/Consul_cluster/my_project/myvpc
+1. cd Clark_Consul_challenge/Consul_cluster/my_project/myvpc
 2. run terraform plan then terraform apply then wait till apply completes
 3. cd ../mybastion
 4. run terraform plan then terraform apply then wait till apply completes
